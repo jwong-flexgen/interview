@@ -20,6 +20,8 @@
 
   Do not use AI to complete this task. We want to see how you think and solve problems.
   As such, please explain your thought processes and ask questions if you have them!
+
+  !! Don't forget to delete your codespace after you are done with the interview !!
  */
 
 import Header from "./Header"
